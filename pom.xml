@@ -46,11 +46,11 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- https://jitpack.io/com/github/dmulloy2/ProtocolLib/ -->
+        <!-- https://jitpack.io/com/github/freyzamarshall02/ProtocolLib/ -->
         <dependency>
-            <groupId>com.github.dmulloy2</groupId>
+            <groupId>com.github.freyzamarshall02</groupId>
             <artifactId>ProtocolLib</artifactId>
-            <version>1e3fa2d36e</version>
+            <version>5.4.0</version>
             <scope>provided</scope>
         </dependency>
 
